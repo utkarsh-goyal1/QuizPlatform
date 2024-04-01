@@ -31,3 +31,6 @@ Checking Quizzez Played-----
 ->Each card of the quizzez played will contain information related to the quiz along with that 2 buttons to join quiz and view results.
 ->When the user clicks on the join quiz button then "Quiz Display" component will get display.
 ->When the user clicks on the view results button then "JoinedQuizResult" component will get display.It will fetch the data of all the quizzes played by the user from the backend and will display it.
+
+Authentication----
+->Using JWT.
